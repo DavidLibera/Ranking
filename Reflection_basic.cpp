@@ -3,6 +3,10 @@
 
 using namespace std;
 
+/*
+findPoint() returns the mirror image of point P with co-ordinates (px,py)
+about the point Q with co-ordinates (qx,qy) 
+*/
 vector<int> findPoint(int px, int py, int qx, int qy) {
 
 	
